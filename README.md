@@ -51,10 +51,7 @@
 </details>
 
 
-[twitter]:   
-[instagram]:  
+  
 [linkedin]: https://www.linkedin.com/in/randy-j-griffin/
-[webdevplaylist]:  
-[jsplaylist]:  
-[cssplaylist]:  
+
   
