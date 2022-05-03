@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" style="padding-right:10px;" />](https://www.selenium.dev/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />](https://docs.oracle.com/en/java/)
