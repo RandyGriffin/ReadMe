@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning QA Automation 
 - 👯 I’m looking to collaborate with other QA Analysts
-- 🥅 2022 Goals: Contribute to at least 50 different open source projects
+- 🚀 2022 Goals: Contribute to at least 50 different open source projects
 - ⚡ Fun fact: I love to trade stocks and watch anime 
   
 
