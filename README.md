@@ -2,10 +2,10 @@
 
  
 
-## I specialize in Selenium, Java, API and Validation!
+## I specialize in Data Analysis, Selenium, Python, API and Validation!
 
-- 🌱 I’m currently learning QA Automation 
-- 👯 I’m looking to collaborate with other QA Analysts
+- 🌱 I’m currently learning QA Automation and Data Science
+- 👯 I’m looking to collaborate with other Analysts
 - 🚀 2022 Goals: Contribute to at least 50 different open source projects
 - ⚡ Fun fact: I love to trade stocks and watch anime 
   
