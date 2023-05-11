@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning QA Automation and Data Science
 - 👯 I’m looking to collaborate with other Analysts
 - 🚀 2023 Goals: Contribute to at least 50 different open source projects
-- ⚡ Fun fact: I love to trade stocks and watch anime 
+- ⚡ Fun fact: I love to trade stocks and travel the world
   
 
 ### Connect with me:
